@@ -4,3 +4,48 @@
 .color-buttons{
     color: white;
 }
+.button{
+cursor: pointer;
+}
+
+/* список  */
+
+
+.list-menu {
+   list-style-type: none;
+}
+.menu-item{
+
+}
+.menu-link{
+color: var(--NAVY-BLUE, #2E2F42);
+    /* Body Medium */
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    /* 150% */
+    letter-spacing: 0.32px;
+}
+/* шапка */
+.logotype{
+color: var(--IRIS, #4D5AE5);
+    font-family: Raleway, sans-serif; 
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+
+    
+}
+.page-head{
+
+}
+
+.page-navigeishen{
+
+}
+
